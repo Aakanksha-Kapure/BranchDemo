@@ -1,4 +1,0 @@
-place = chennai
-employee name = aakanksha
-employee name = nikita
-employee name = sarika
