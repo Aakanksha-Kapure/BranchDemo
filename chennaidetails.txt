@@ -1,2 +1,3 @@
 Chennai details
 user = aakanksha kapure
+company name = lntinfotech
